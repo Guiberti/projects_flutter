@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621794686943",
+    "project_id": "horas-v3-d8f04",
+    "storage_bucket": "horas-v3-d8f04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621794686943:android:ad8819a624907373f6f66a",
+        "android_client_info": {
+          "package_name": "br.com.aprendizadoflutter.horas.horas_v3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0b5p2nPIRi9SEz_0QFutl_tZQCa2YLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
